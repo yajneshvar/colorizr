@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = "Yajneshvar"
   s.email       = 'yajneshvar.arumugam@gmail.com'
   s.files       = ["lib/colorizr.rb"]
-  s.homepage    = 'http://udacity.com'
+  s.homepage    = 'https://github.com/yajneshvar/colorizr'
   s.license     = 'MIT'
 end
