@@ -5,6 +5,11 @@ Ruby gem to colourize terminal output
 
 
 ## Quick Usage
+Include the gem
+```
+require 'colirzr'
+```
+
 To get list of colors
 ```
 String.colors
